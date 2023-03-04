@@ -4,7 +4,7 @@
 
 Encontraréis el ejecutable de LogicWorks (programa que utilizaréis en el laboratorio) en el siguiente [**enlace**](./LogicWorks%204.0/Program/LogicWorks.exe). 
 
-En este repositorio tan solo están disponibles los archivos que se llevan a cabo durante el informe del laboratorio (no el previo).
+En este repositorio tan solo están disponibles los archivos que se llevan a cabo durante el informe del laboratorio.
 
 ## Avaluación (2022-2023)
 
